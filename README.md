@@ -18,8 +18,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add live site URL here](https://www.frontendmentor.io/solutions/responsive-component-with-mobilefirst-approach-w9Evq-532)
-- Live Site URL: [Add live site URL here](https://annab6.github.io/FM_7-article-preview-component/#)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-component-with-mobilefirst-approach-w9Evq-532](https://www.frontendmentor.io/solutions/responsive-component-with-mobilefirst-approach-w9Evq-532)
+- Live Site URL: [https://annab6.github.io/FM_7-article-preview-component/#](https://annab6.github.io/FM_7-article-preview-component/#)
 
 ## Built with
 
